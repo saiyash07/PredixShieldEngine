@@ -187,3 +187,4 @@
 [2026-07-08 15:29:08] COMMIT #9: Define custom anomaly injection cases
 [2026-07-08 15:34:08] COMMIT #10: Implement temperature spike anomalies
 [2026-07-08 15:39:08] COMMIT #11: Add vibration drift wear-and-tear simulation
+[2026-07-08 15:44:08] COMMIT #12: Refactor data generator anomaly triggers
