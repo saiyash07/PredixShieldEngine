@@ -189,3 +189,4 @@
 [2026-07-08 15:39:08] COMMIT #11: Add vibration drift wear-and-tear simulation
 [2026-07-08 15:44:08] COMMIT #12: Refactor data generator anomaly triggers
 [2026-07-08 15:49:08] COMMIT #13: Fix random seed offsets in simulator
+[2026-07-08 15:54:08] COMMIT #14: Initialize anomaly detector module
