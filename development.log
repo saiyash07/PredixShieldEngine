@@ -222,3 +222,4 @@
 [2026-07-08 18:24:08] COMMIT #44: Design light mode skeuomorphism CSS stylesheet
 [2026-07-08 18:29:08] COMMIT #45: Update metrics cards with soft neumorphic shadows
 [2026-07-08 18:34:08] COMMIT #46: Add recessed LCD screen styling for digital readouts
+[2026-07-08 18:39:08] COMMIT #47: Switch Plotly charts to light-mode parameters
