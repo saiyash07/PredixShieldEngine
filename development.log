@@ -207,3 +207,4 @@
 [2026-07-08 17:09:08] COMMIT #29: Implement stacked subplots layout
 [2026-07-08 17:14:08] COMMIT #30: Add streaming ingestion loop using time.sleep
 [2026-07-08 17:19:08] COMMIT #31: Add pause ingestion button
+[2026-07-08 17:24:08] COMMIT #32: Add reset history state callback
