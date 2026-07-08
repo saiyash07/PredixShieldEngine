@@ -196,3 +196,4 @@
 [2026-07-08 16:14:08] COMMIT #18: Add rolling mean calculations using Pandas
 [2026-07-08 16:19:08] COMMIT #19: Implement Isolation Forest pipeline
 [2026-07-08 16:24:08] COMMIT #20: Integrate Scikit-Learn IsolationForest model
+[2026-07-08 16:29:08] COMMIT #21: Define default contamination factor
