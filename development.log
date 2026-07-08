@@ -209,3 +209,4 @@
 [2026-07-08 17:19:08] COMMIT #31: Add pause ingestion button
 [2026-07-08 17:24:08] COMMIT #32: Add reset history state callback
 [2026-07-08 17:29:08] COMMIT #33: Link anomaly injector dropdown to simulator
+[2026-07-08 17:34:08] COMMIT #34: Format chart templates using Plotly Dark
